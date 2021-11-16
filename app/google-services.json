@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "891684568458",
+    "project_id": "cakeshopip",
+    "storage_bucket": "cakeshopip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891684568458:android:7080d6d54dc66a0c025c73",
+        "android_client_info": {
+          "package_name": "com.example.cakeshopip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891684568458-g19o2lpe22e0dk44ltrerqohjc8sk5fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV7ZSq0NRa2B0NBPM7ERK0MR9_kh_YD78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891684568458-g19o2lpe22e0dk44ltrerqohjc8sk5fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
